@@ -1,0 +1,10 @@
+scikit-learn>=1.2
+pandas
+numpy
+streamlit
+fastapi
+uvicorn[standard]
+shap
+joblib
+# Optional quantum packages; import guarded in code
+qiskit
