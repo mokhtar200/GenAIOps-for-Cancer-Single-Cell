@@ -1,4 +1,6 @@
-# QC → ML → Cancer Detection → GenAI Explanation → MLOps → Dashboard
+# GenAIOps Platform for Single-Cell Cancer Analysis
+
+QC → ML → Cancer Detection → GenAI Explanation → MLOps → Dashboard
 
 Minimal scaffold demonstrating a pipeline combining:
 - QC stub (quantum feature mapping placeholder)
